@@ -11,7 +11,7 @@ Antes de executar o código, instale a biblioteca necessária:
 pip3 install pyaes
 ```
 
-## Encriptando um Arquivo
+## Encriptando o Arquivo
 ### Código `encrypter.py`
 ```python
 import os
@@ -40,7 +40,7 @@ new_file.write(crypto_data)
 new_file.close()
 ```
 
-## Decriptando um Arquivo
+## Decriptando o Arquivo
 ### Código `decrypter.py`
 ```python
 import os
