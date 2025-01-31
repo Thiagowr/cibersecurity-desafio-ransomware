@@ -2,7 +2,7 @@ import os
 import pyaes
 
 ## abrir o arquivo criptografado
-file_name = "Dio.ransomware"
+file_name = "Desafio.txt.ransomware"
 file = open(file_name, "rb")
 file_data = file.read()
 file.close()
