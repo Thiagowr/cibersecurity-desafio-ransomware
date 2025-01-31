@@ -68,9 +68,7 @@ new_file.close()
 ```
 
 ## Executando o Projeto
-
-
-```
+![image](https://github.com/user-attachments/assets/8bb9b71e-9e87-4ee5-9454-b3716f2c10fe)
 
 ---
 
