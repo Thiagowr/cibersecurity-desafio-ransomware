@@ -5,7 +5,7 @@
 - **Biblioteca pyaes** (para AES simétrico)
 - **Kali Linux** (ou qualquer distribuição Linux)
 
-## 🛠 Instalação
+## Instalação
 Antes de executar o código, instale a biblioteca necessária:
 ```bash
 pip3 install pyaes
